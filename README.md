@@ -12,3 +12,5 @@ The sample running of the game is as shown below
 
 
 
+![](images/Photo1.jpg)
+
