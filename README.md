@@ -14,3 +14,9 @@ The sample running of the game is as shown below
 
 ![](images/Photo1.jpg)
 
+![](images/Photo2.jpg)
+![](images/Photo3.jpg)
+![](images/Photo4.jpg)
+![](images/Photo5.jpg)
+![](images/Photo6.jpg)
+
